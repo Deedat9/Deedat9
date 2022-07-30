@@ -1,7 +1,7 @@
 - 👋 Hi, i'm Abdullahi Ahmed
 - 👀 I’m interested in data analysis 
 - 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on regression analysis
+- 💞️ I’m looking to collaborate on
 - 📫 How to reach me deedat9@yahoo.com
 
 <!---
